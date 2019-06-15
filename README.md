@@ -6,11 +6,11 @@ Database :
  
 Language :
   Python
-  Modules used in Pyhton:
-    Logging : used for logging output in a separate file
-    Random 
-    Json
-    Base64 : Used encoding-decoding scheme
+Modules used in Pyhton:
+  Logging : used for logging output in a separate file
+  Random 
+  Json
+  Base64 : Used encoding-decoding scheme
 
 Introduction :
 
